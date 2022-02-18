@@ -1,1 +1,1 @@
-# csulb_stat_consulting
+# CSULB STATISTICAL CONSULTING
